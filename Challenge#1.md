@@ -19,6 +19,7 @@ Se considera favorable una solución tecnológica basada en Internet de las Cosa
    - Autoevaluación del protocolo  
 3. **Conclusiones**
 4. **Referencias**
+5. **Anexos**
 
 ---
 
